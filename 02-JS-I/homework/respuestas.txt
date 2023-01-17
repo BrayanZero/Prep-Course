@@ -1,0 +1,6 @@
+Variables: Es un contenedor donde se pueden almacenar distintos tipos de datos como: strings, numeros etc.
+Cadenas: Son los valores que pueden ser almacenados en otro espacio por ejemplo una variable.
+funciones: Son bloques de codigo en donde agregamos algunos valores que luego de cumplir un proceso me arrojara un resultado.
+Declaracion if: indica una condicion que al ser verdadera debera arrojar un resultado y de ser falsa arrojara otro resultado.
+Valores Booleanos: se refiere a una exprecion que de ser verdadera dara como resultado (true) y de ser falsa dara (false).
+  
